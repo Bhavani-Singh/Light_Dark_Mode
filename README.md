@@ -19,8 +19,8 @@ To experience the Dark and Light Mode Application, follow these steps:
 Navigate to the project directory and open index.html in a web browser.
 
 3. **Toggle Themes:**
-- Click the "Toggle Dark Mode" button to switch to dark mode.
-- Click the "Toggle Light Mode" button to switch to light mode.
+- Click the toggle button on the upper right corner to switch to dark mode.
+- Click the toggle button on the upper right to switch to light mode.
 
 4. **Automatic Theme Recall:**
 The application automatically recalls your chosen theme using local storage, even after you close and reopen it.
